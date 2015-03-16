@@ -18,7 +18,7 @@ namespace PitchFx.Api.Controllers
         // GET api/values/5
         public string Get(int id)
         {
-            return "bob";
+            return "value";
         }
 
         // POST api/values
