@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+  For more info on this file format visit http://docs.nuget.org/docs/reference/nuspec-reference.
+-->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">  
+  <metadata>
+    <id>PitchFxApi</id>
+    <version>0.0.1</version>
+    <authors>Nick Heinbaugh</authors>
+    <description>Nuget package to enable automated deployments to Azure</description>
+    <language>en-US</language>
+    <projectUrl>http://pitchfxapi-test.azurewebsites.net/</projectUrl>
+    <licenseUrl>http://pitchfxapi-test.azurewebsites.net/</licenseUrl>
+  </metadata>
+</package>
+
+
+
