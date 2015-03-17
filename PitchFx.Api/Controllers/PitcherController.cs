@@ -13,7 +13,7 @@ namespace PitchFx.Api.Controllers
         // GET api/Pitcher/5
         public string Get(int id)
         {
-            return "value";
+            return "this is a pitcher";
         }
     }
 }
